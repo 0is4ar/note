@@ -5,6 +5,22 @@
 ## WEB
 
 * [Untitled](web/untitled.md)
+* [hash_extension](web/hash_extension.md)
+* [padding_oracle](web/padding_oracle.md)
+* [chosen_plaintext](web/chosen_plaintext.md)
+* [natas_review](web/natas_review.md.vswp)
+* [natas_review](web/natas_review.md)
+* [natas](web/natas.md)
+* [untitled](web/untitled.md)
+* [apache](web/configuration/apache.md.vswp)
+* [apache](web/configuration/apache.md)
+* [basic](web/sqli/basic.md)
+* [file](web/sqli/file.md)
+* [blind](web/sqli/blind.md)
+* [second](web/sqli/second.md)
+* [error](web/sqli/error.md)
+* [bypass](web/sqli/bypass.md)
+* [new_note](web/sqli/new_note.md)
 
 ## BINARY
 
