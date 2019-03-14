@@ -1,2 +1,4 @@
-# Initial page
+# Note
+
+Some notes during study. 
 
