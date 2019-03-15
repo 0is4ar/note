@@ -11,7 +11,6 @@
  * [natas_review](web/natas_review.md.vswp)
  * [natas_review](web/natas_review.md)
  * [natas_first](web/natas.md)
-* [apache](web/configuration/apache.md)
 * [sqli](web/p_sqli.md)
  * [basic](web/sqli/basic.md)
  * [file](web/sqli/file.md)
@@ -21,6 +20,13 @@
  * [bypass](web/sqli/bypass.md)
  * [new_note](web/sqli/new_note.md)
 
+* [apache](web/configuration/apache.md)
+* [php_session](web/php_session.md)
+
+## Python
+
+* [virtualenv](python/virtualenv.md)
+
 ## BINARY
 
 * [Untitled](binary/untitled.md)
@@ -29,7 +35,14 @@
 
 * [Untitled](cheatsheet/untitled.md)
 
-## draft
 
+## misc 
+
+* [tmux](misc/linux/tmux.md)
+* [Gnome shortcut](misc/linux/Gnome shortcut.md)
+* [i3](misc/linux/i3.md)
+* [tools](misc/linux/tools.md)
+* [shell](misc/linux/shell.md)
+* [make](misc/linux/make.md)
+* [bash_tutorial](misc/linux/tutorial.md)
 * [Arch config](draft/arch-config.md)
-
