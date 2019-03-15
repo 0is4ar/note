@@ -4,5 +4,3 @@
 
 the default directory mysql's directory
 
-
-
