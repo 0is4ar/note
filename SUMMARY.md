@@ -37,7 +37,7 @@
 ## misc 
 
 * [tmux](misc/linux/tmux.md)
-* [Gnome shortcut](misc/linux/Gnome shortcut.md)
+* [Gnome shortcut](misc/linux/gnome_shortcut.md)
 * [i3](misc/linux/i3.md)
 * [tools](misc/linux/tools.md)
 * [shell](misc/linux/shell.md)
