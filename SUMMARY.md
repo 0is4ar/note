@@ -4,6 +4,8 @@
 
 ## WEB
 
+* [apache](web/configuration/apache.md)
+* [php_session](web/php_session.md)
 * [natas](web/p_natas.md)
  * [hash_extension](web/hash_extension.md)
  * [padding_oracle](web/padding_oracle.md)
@@ -19,8 +21,6 @@
  * [error](web/sqli/error.md)
  * [bypass](web/sqli/bypass.md)
  * [new_note](web/sqli/new_note.md)
-* [apache](web/configuration/apache.md)
-* [php_session](web/php_session.md)
 
 ## Python
 
