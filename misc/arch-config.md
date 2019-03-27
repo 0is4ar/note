@@ -66,3 +66,7 @@ modinfo -p i915 systool -m i915 -av
 
 dmesg
 
+### bluetooth
+
+systemctl start bluetooth
+blueman-manager
