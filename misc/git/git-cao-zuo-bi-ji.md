@@ -51,9 +51,7 @@
 > 在用上述 git clean 前，墙裂建议加上 -n 参数来先看看会删掉哪些文件，防止重要文件被误删  
 > git clean -nxfd git clean -nf git clean -nfd
 
-
-
-## use stash 
+## use stash
 
 I have computer1 and computer2, working on my note.
 
@@ -61,6 +59,7 @@ when I changed item in git directory in computer1 but didn't push.
 
 Then I made change in remote by push on computer2.
 
-Because the local directory in computer1 was dirty, can't pull new things, and can't push(unless force).
+Because the local directory in computer1 was dirty, can't pull new things, and can't push\(unless force\).
 
 So, first "hide" the dirty part by `git stash`. Then pull. Then retrieve by `git stash pop`, then push.
+

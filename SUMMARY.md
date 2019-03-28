@@ -53,7 +53,8 @@
 ## writeup
 
 * [recruit](writeup/recruite.md)
-* [offsec_mid](writeup/offsec/course.md)
+* [offsec\_mid](writeup/course.md)
+* [got](writeup/got.md)
 
 ## CHEATSHEET
 

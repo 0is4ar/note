@@ -1,6 +1,6 @@
 # Arch config
 
-### network
+## network
 
 ip link set wlp59s0 up iw wlp59s0 scan
 
@@ -9,7 +9,7 @@ iw wlp59s0 link
 Not connect
 ```
 
-#### wifi-menu
+### wifi-menu
 
 this is the only awesome one
 
@@ -17,7 +17,7 @@ wpa\_supplicant
 
 wifi-menu is a pseudo GUI of netctl netctl requires wpa\_supplicant
 
-### file system
+## file system
 
 three partition, first starts from sector 2048
 
@@ -38,21 +38,19 @@ mkswap /dev/sdX2
 swapon /dev/sdX2
 ```
 
-### X
+## X
 
 xinit allows a user to manually start an Xory
 
 startx is a front-end for xinit
 
-
-
-### dpi
+## dpi
 
 xrandr --dpi 150
 
 then a lot of things can be bigger
 
-### configure
+## configure
 
 file in \*.d will be treated as its original conf, and parse one by one
 
@@ -66,7 +64,7 @@ modinfo -p i915 systool -m i915 -av
 
 dmesg
 
-### bluetooth
+## bluetooth
 
-systemctl start bluetooth
-blueman-manager
+systemctl start bluetooth blueman-manager
+
