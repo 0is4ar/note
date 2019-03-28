@@ -53,3 +53,14 @@
 
 
 
+## use stash 
+
+I have computer1 and computer2, working on my note.
+
+when I changed item in git directory in computer1 but didn't push.
+
+Then I made change in remote by push on computer2.
+
+Because the local directory in computer1 was dirty, can't pull new things, and can't push(unless force).
+
+So, first "hide" the dirty part by `git stash`. Then pull. Then retrieve by `git stash pop`, then push.

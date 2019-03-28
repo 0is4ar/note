@@ -32,3 +32,9 @@ s=process\('./a'\) gdb.attach\(s\) 通过IDA找到需要breakpoint的点
 
 还可以follow-exec mode-
 
+
+## gef
+
+memory watch $rbp-0x18 1 WORD
+
+watch,1 line, a WORD as a block
