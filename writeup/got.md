@@ -24,7 +24,7 @@ because rbp-0x20 will be used as parameter of puts later, and there's only one t
 
 this '/bin//sh' will be written to 0x601010\(we need /bin//sh next phase, but this code of this phase wants to write this to somewhere\), so rbp-0x18 could overwrite 0x601018
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 since fgets doesn't use 00 to determine the end of string. So my input could contain 00.
 
