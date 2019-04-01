@@ -185,3 +185,6 @@
 * [Markdown syntax guide and writing on MWeb](from-mweb/markdown-syntax-guide-and-writing-on-mweb.md)
 * [Chap1](from-mweb/chap1.md)
 
+## Leetcode
+
+* [9key_typing](leetcode/9key_typing.md)
