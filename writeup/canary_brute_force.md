@@ -30,7 +30,7 @@ if detach-on-fork is off, gdb takes one process\(according to follow-fork-mode\)
 
 this is a simple example: parent call child to handle message after accept a socket
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 ![](../.gitbook/assets/image%20%281%29.png)
 

@@ -57,6 +57,7 @@
 * [offsec\_mid](writeup/course.md)
 * [got](writeup/got.md)
 * [canary\_brute\_force](writeup/canary_brute_force.md)
+* [shrink](writeup/shrink.md)
 
 ## CHEATSHEET
 
