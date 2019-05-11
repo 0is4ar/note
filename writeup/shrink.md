@@ -30,7 +30,7 @@ There's a lot of amazing ideas of how to exploit this null byte. This exploit on
 
 A and C should be 0x108 bytes here. 
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../.gitbook/assets/image%20%285%29.png)
 
 After B is freed, the chunk normally goes to unsorted bin\(if no tcache\), and the chunk itself has data like
 
@@ -122,13 +122,13 @@ before I can malloc chunks in that area, there were still two 0x20 fastbin chunk
 
 boots table after line 26:
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 they are: A, D\(B1\), E\(B2\), C, F, P
 
 After D was deleted, P jumps to its place\(just index\) according to `edit_boot`
 
-![](../.gitbook/assets/image%20%287%29.png)
+![](../.gitbook/assets/image%20%288%29.png)
 
 0x603380 is the chunk P's boot struct
 
