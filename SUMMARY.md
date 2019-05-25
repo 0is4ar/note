@@ -24,6 +24,8 @@
   * [error](web/sqli/error.md)
   * [bypass](web/sqli/bypass.md)
   * [new\_note](web/sqli/new_note.md)
+* [jsonp](web/jsonp.md)
+* [browser](web/browser.md)
 
 ## Python
 
@@ -50,9 +52,11 @@
 * [格式化字符串漏洞](binary/ge-shi-hua-zi-fu-chuan-lou-dong.md)
 * [ELF](binary/elf.md)
 * [索引](binary/suo-yin.md)
+* [heap](binary/heap.md)
 
 ## writeup
 
+* [smalle](writeup//smalle.md)
 * [recruit](writeup/recruite.md)
 * [offsec\_mid](writeup/course.md)
 * [got](writeup/got.md)
@@ -95,6 +99,9 @@
 * [make](misc/make.md)
 * [bash\_tutorial](misc/tutorial.md)
 * [Arch config](misc/arch-config.md)
+* [fuzz](misc/fuzz.md)
+* [rsa](misc/rsa.md)
+* [container](misc/container.md)
 
 ## OSCP
 
