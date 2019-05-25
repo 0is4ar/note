@@ -30,9 +30,9 @@ if detach-on-fork is off, gdb takes one process\(according to follow-fork-mode\)
 
 this is a simple example: parent call child to handle message after accept a socket
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20%287%29.png)
 
-![](../.gitbook/assets/image%20%281%29.png)
+![](../.gitbook/assets/image%20%282%29.png)
 
 the only param `handle` needs is the fd of socket
 
@@ -54,7 +54,7 @@ should take notice that len\('B'.rjust\(89,'A'\)\) == 89
 
 When the handle child process return normally, it will send back "and goodbye". But when stack smashed, it won't. 
 
-![](../.gitbook/assets/image%20%283%29.png)
+![](../.gitbook/assets/image%20%284%29.png)
 
 
 

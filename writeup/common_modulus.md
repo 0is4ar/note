@@ -6,7 +6,7 @@ have two cipher texts with the same n but different e
 
 According to **Bezout's Therorem**, integers a and b, which are not both 0, then there exists x and y such that: xa + yb = gcd\(a,b\)
 
-![](../.gitbook/assets/image%20%282%29.png)
+![](../.gitbook/assets/image%20%283%29.png)
 
 {% embed url="https://planetcalc.com/3298/" %}
 
