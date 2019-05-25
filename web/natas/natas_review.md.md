@@ -1,7 +1,5 @@
 # natas\_review
 
-vnote\_backup\_file\_826537664 /home/s0ng/Documents/Boostnote/boostMD/web/natas\_review.md
-
 ## natas\_review
 
 ### natas0
